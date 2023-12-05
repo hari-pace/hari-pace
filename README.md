@@ -36,6 +36,8 @@
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hari-pace&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=hari-pace)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hari-pace)
