@@ -2,7 +2,7 @@
 
 <h2>I've recently graduated as a Full-stack Web Developer and am looking to kickstart my tech career!</h2>
 
-
+<br />
 
 <h3><img src="https://github.com/hari-pace/hari-pace/assets/139553466/e050c0c8-5335-4285-9a89-0bd8c9657555" height="20px" width="30px" /> About me:</h3>
 
@@ -14,7 +14,7 @@
 <h6>📫 How to reach me: hari.pace23@gmail.com</h6>
 
 
-
+<br />
 
 <h3><img src="https://github.com/hari-pace/hari-pace/assets/139553466/22854f79-1be9-426a-9b1e-072eb0e3f7e4" height="20px" width="30px" /> Über mich:</h3>
 
@@ -27,7 +27,7 @@
 
 
 
-
+<br />
 
 
 <h3>Skills:</h3>
