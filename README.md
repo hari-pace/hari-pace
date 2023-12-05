@@ -9,21 +9,21 @@
 <h4>🌎 living in Munich, although originally from the UK</h4>
 <h4>👨🏽‍💻 tech enthusiast, love discovering new things</h4>
 <h4>⚽ away from the computer, football and gym take up a lot of my time</h4>
-<h6>🌱 I’m currently learning AWS and cloud architecture</h6>
-<h6>👯 I’m looking to collaborate on open-source projects, ideally using React on the frontend</h6>
-<h6>📫 How to reach me: hari.pace23@gmail.com</h6>
+<h4>🌱 I’m currently learning AWS and cloud architecture</h4>
+<h4>👯 I’m looking to collaborate on open-source projects, ideally using React on the frontend</h4>
+<h4>📫 How to reach me: hari.pace23@gmail.com</h4>
 
 
 <br />
 
 <h3><img src="https://github.com/hari-pace/hari-pace/assets/139553466/22854f79-1be9-426a-9b1e-072eb0e3f7e4" height="20px" width="30px" /> Über mich:</h3>
 
-<h6>🌎 In München beheimatet, ursprünglich aus dem Vereinigten Königreich.</h6>
-<h6>👨🏽‍💻 Technikliebhaber, stets auf der Suche nach Neuem.</h6>
-<h6>⚽ Neben dem Computer füllen Fußball und Fitnessstudio meinen Alltag.</h6>
-<h6>🌱 Aktuell lerne ich AWS und Cloud-Architektur.</h6>
-<h6>👯 Offen für Kollaborationen an Open-Source-Projekten, besonders mit React im Frontend.</h6>
-<h6>📫 Kontakt: hari.pace23@gmail.com</h6>
+<h4>🌎 In München beheimatet, ursprünglich aus dem Vereinigten Königreich.</h4>
+<h4>👨🏽‍💻 Technikliebhaber, stets auf der Suche nach Neuem.</h4>
+<h4>⚽ Neben dem Computer füllen Fußball und Fitnessstudio meinen Alltag.</h4>
+<h4>🌱 Aktuell lerne ich AWS und Cloud-Architektur.</h4>
+<h4>👯 Offen für Kollaborationen an Open-Source-Projekten, besonders mit React im Frontend.</h4>
+<h4>📫 Kontakt: hari.pace23@gmail.com</h4>
 
 
 
