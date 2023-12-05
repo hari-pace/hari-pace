@@ -40,6 +40,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hari-pace&show_icons=true&theme=transparent&hide_rank=true)
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=hari-pace)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hari-pace)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
