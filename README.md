@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there ![image](https://github.com/hari-pace/hari-pace/assets/139553466/785c630b-964a-4795-835c-1c16ef408595)
+👋, I'm Hari
+
+I've recently graduated as a Full-stack Web Developer and am looking to kickstart my tech career!
+
+
 
 <!--
 **hari-pace/hari-pace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
