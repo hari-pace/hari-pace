@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Hari
+### <h1> Hi there <img src="https://github.com/hari-pace/hari-pace/assets/139553466/ecb2f023-e2f0-4c67-bfba-c9e0e598170d" height="50px" />, I'm Hari </h1>
+
+
 
 I've recently graduated as a Full-stack Web Developer and am looking to kickstart my tech career!
 
