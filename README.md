@@ -1,4 +1,5 @@
-### Hi there ![image](https://github.com/hari-pace/hari-pace/assets/139553466/785c630b-964a-4795-835c-1c16ef408595)
+### Hi there ![HandGIF](https://github.com/hari-pace/hari-pace/assets/139553466/80bf46da-eca3-4eac-89ce-32b3a3f771b6)
+
 👋, I'm Hari
 
 I've recently graduated as a Full-stack Web Developer and am looking to kickstart my tech career!
