@@ -38,7 +38,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hari-pace&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hari-pace&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hari-pace&show_icons=true&theme=transparent&hide_rank=true)
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=hari-pace)
 
 
