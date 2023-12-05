@@ -6,9 +6,9 @@
 
 <h3><img src="https://github.com/hari-pace/hari-pace/assets/139553466/e050c0c8-5335-4285-9a89-0bd8c9657555" height="20px" width="30px" /> About me:</h3>
 
-<h6>🌎 living in Munich, although originally from the UK</h6>
-<h6>👨🏽‍💻 tech enthusiast, love discovering new things</h6>
-<h6>⚽ away from the computer, football and gym take up a lot of my time</h6>
+<h5>🌎 living in Munich, although originally from the UK</h5>
+<h5>👨🏽‍💻 tech enthusiast, love discovering new things</h5>
+<h5>⚽ away from the computer, football and gym take up a lot of my time</h5>
 <h6>🌱 I’m currently learning AWS and cloud architecture</h6>
 <h6>👯 I’m looking to collaborate on open-source projects, ideally using React on the frontend</h6>
 <h6>📫 How to reach me: hari.pace23@gmail.com</h6>
