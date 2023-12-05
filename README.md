@@ -1,6 +1,8 @@
 ### <h1><img src="https://github.com/hari-pace/hari-pace/assets/139553466/77e51178-9786-474f-ab1e-35d671b81261" height="50px" />  Hi there, I'm Hari </h1>
 
 <h2>I've recently graduated as a Full-stack Web Developer and am looking to kickstart my tech career!</h2>
+<img src="https://github.com/hari-pace/hari-pace/assets/139553466/e050c0c8-5335-4285-9a89-0bd8c9657555" height="25px" />
+
 
 <h3>About me:</h3>
 
@@ -11,6 +13,9 @@
 <h6>👯 I’m looking to collaborate on open-source projects, ideally using React on the frontend</h6>
 <h6>📫 How to reach me: hari.pace23@gmail.com</h6>
 
+
+
+<img src="https://github.com/hari-pace/hari-pace/assets/139553466/22854f79-1be9-426a-9b1e-072eb0e3f7e4" height="25px" />
 <h3>Über mich:</h3>
 
 <h6>🌎 In München beheimatet, ursprünglich aus dem Vereinigten Königreich.</h6>
