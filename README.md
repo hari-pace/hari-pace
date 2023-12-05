@@ -1,4 +1,4 @@
-### <h1> Hi there <img src="https://github.com/hari-pace/hari-pace/assets/139553466/77e51178-9786-474f-ab1e-35d671b81261" height="50px" />, I'm Hari </h1>
+### <h1><img src="https://github.com/hari-pace/hari-pace/assets/139553466/77e51178-9786-474f-ab1e-35d671b81261" height="50px" />  Hi there, I'm Hari </h1>
 
 
 
