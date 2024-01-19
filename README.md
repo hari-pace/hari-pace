@@ -9,7 +9,7 @@
 <h4>🌎 Living in Munich, although originally from the UK</h4>
 <h4>👨🏽‍💻 Tech enthusiast, love discovering new things</h4>
 <h4>⚽ Away from the computer, football and gym take up a lot of my time</h4>
-<h4>🌱 Currently learning AWS and cloud architecture</h4>
+<h4>🌱 Currently learning Flutter and cloud architecture</h4>
 <h4>👯 Looking to collaborate on open-source projects, ideally using React on the frontend</h4>
 <h4>📫 How to reach me: hari.pace23@gmail.com</h4>
 
@@ -21,7 +21,7 @@
 <h4>🌎 In München beheimatet, ursprünglich aus dem Vereinigten Königreich.</h4>
 <h4>👨🏽‍💻 Technikliebhaber, stets auf der Suche nach Neuem.</h4>
 <h4>⚽ Neben dem Computer füllen Fußball und Fitnessstudio meinen Alltag.</h4>
-<h4>🌱 Aktuell lerne ich AWS und Cloud-Architektur.</h4>
+<h4>🌱 Aktuell lerne ich Flutter und Cloud-Architektur.</h4>
 <h4>👯 Offen für Kollaborationen an Open-Source-Projekten, besonders mit React im Frontend.</h4>
 <h4>📫 Kontakt: hari.pace23@gmail.com</h4>
 
