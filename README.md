@@ -1,4 +1,4 @@
-### <h1><👋 Hi there, I'm Hari </h1>
+### <h1>👋 Hi there, I'm Hari </h1>
 
 <h2>I've recently graduated as a Full-stack Web Developer and am looking to kickstart my tech career!</h2>
 
