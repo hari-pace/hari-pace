@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Web Developer
 ------------------------
 
-* 🌍  I'm based in Munich, DE
+* 🌍  I'm based in Munich, DE but originally from the UK
 * 🖥️  See my portfolio at [hari-pace.netlify.app/](http://hari-pace.netlify.app/)
 * ✉️  You can contact me at [hari.pace23@gmail.com](mailto:hari.pace23@gmail.com)
-* 🧠  I'm learning NextJS and Flutter
+* 🧠  I'm currently learning NextJS and, just for an extra challenge, dipping my toe into mobile dev by learning Dart & Flutter
 * 🤝  I'm open to collaborating on interesting Javascript projects, ideally on the frontend
-* ⚡  Away from the computer; travelling, sports and discovering good new TV shows take up a lot of my time
+* ⚡  Away from the computer - travelling, sports and discovering good new TV shows take up a lot of my time
 
 
 
